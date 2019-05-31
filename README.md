@@ -1,0 +1,3 @@
+# HasAndroidInjector Upgrade example
+
+
